@@ -8,3 +8,6 @@
 * Orlando Sahadeo
 * Anthony Jawahir
 
+## LIVE SITE LINK: 
+## THEME: https://wordpress.org/themes/gamers-hub/
+## GITHUB REPOSITORY: https://github.com/AnthonyJawahir/player-review-hub
