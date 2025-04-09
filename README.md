@@ -4,9 +4,9 @@
 ## Site Name: Gamer Review Hub
 
 ## Group Members:
-* David St. Bernard
-* Orlando Sahadeo
-* Anthony Jawahir
+* David St. Bernard (Archive & Single Post Templates, Custom Queries, Form Plugin)
+* Orlando Sahadeo (Page Hierarchy, Dynamic Breadcrumbs, Deployment)
+* Anthony Jawahir (Custom Post Types & Fields, Custom Queries, Guide Form, Game Recommendation Plugin)
 
 ## LIVE SITE LINK: http://gamesreview.rf.gd/
 ## THEME: https://wordpress.org/themes/gamers-hub/
